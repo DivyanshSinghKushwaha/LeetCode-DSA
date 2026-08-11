@@ -5,10 +5,13 @@ class Solution {
         double total=0;
         int p=prices.length-1;
         int d=discounts.length-1;
-        while(p>=0){
-            if(d>=0 && p>=0) total+=(prices[p]*(100-discounts[d]))/100.0;
-            else if(p>=0) total+=prices[p];
+        while(p>=0 && d>=0){
+            total+=(prices[p]*(100-discounts[d]))/100.0;
             p--;d--;
+        }
+        while(p>=0){
+            total+=prices[p];
+            p--;
         }
         return total;
     }
