@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
+| [2485-find-the-pivot-integer](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
