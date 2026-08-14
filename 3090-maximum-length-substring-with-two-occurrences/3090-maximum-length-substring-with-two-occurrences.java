@@ -1,3 +1,4 @@
+//Using HashMap as practice
 class Solution {
     public int maximumLengthSubstring(String s) {
         HashMap<Character,Integer> freq= new HashMap<>();
