@@ -1,12 +1,12 @@
-//Using HashMap as practice
+//Using HashArray as practice
 class Solution {
     public int maximumLengthSubstring(String s) {
-        HashMap<Character,Integer> freq= new HashMap<>();
+        char freq[]= new char[26];
         int i, j, longest=0;
         for(i=0,j=0;j<s.length();j++){
-            freq.put(s.charAt(j),freq.getOrDefault(s.charAt(j),0)+1);
-            while(freq.get(s.charAt(j))>2){
-                freq.put(s.charAt(i),freq.get(s.charAt(i))-1);
+            freq[s.charAt(j)-'a']++;
+            while(freq[s.charAt(j)-'a']>2){
+                freq[s.charAt(i)-'a']--;
                 i++;
             }
             longest=Math.max(j-i+1,longest);
