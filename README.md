@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
