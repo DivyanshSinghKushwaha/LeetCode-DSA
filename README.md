@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0645-set-mismatch) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
 | ------- |
