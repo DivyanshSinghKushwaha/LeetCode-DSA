@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0283-move-zeroes) |
 ## Simulation
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
