@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
