@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
