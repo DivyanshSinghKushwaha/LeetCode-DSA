@@ -10,7 +10,7 @@ class Solution {
                 arr[p]=nums[i];
                 p+=2;
             }
-            else if(nums[i]<0){
+            else {
                 arr[n]=nums[i];
                 n+=2;
             }
