@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0704-binary-search) |
+| [1200-minimum-absolute-difference](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting Sort
