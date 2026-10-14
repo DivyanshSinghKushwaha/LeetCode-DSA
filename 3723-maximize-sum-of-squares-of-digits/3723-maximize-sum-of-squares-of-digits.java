@@ -1,6 +1,6 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
-        StringBuffer ans=new StringBuffer();
+        StringBuilder ans=new StringBuilder();
         if(num*9<sum){ return "";}
         while(num>0){
             
