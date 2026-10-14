@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
