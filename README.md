@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2057-smallest-index-with-equal-value) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DivyanshSinghKushwaha/LeetCode-DSA/tree/master/3904-smallest-stable-index-ii) |
